@@ -25,7 +25,7 @@ Repositori ini memuat implementasi *end-to-end machine learning pipeline* untuk 
 
 ## Struktur Repositori
 
-text
+```text
 student-performance-factors/
 ├── dataset/
 │   └── StudentPerformanceFactors.csv   # Data mentah
