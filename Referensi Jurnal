@@ -1,0 +1,24 @@
+Referensi Jurnal (Landasan Teori Evaluasi Model)
+Catatan Proyek: Meskipun studi kasus pada repositori ini memprediksi nilai ujian siswa (Exam Score), landasan teori untuk mengevaluasi kinerja model mengambil rujukan akademik dari literatur prediksi harga properti/rumah (sesuai dengan penugasan praktikum).
+Secara keilmuan, prediksi harga rumah dan nilai ujian merupakan kasus Regresi Nilai Kontinu yang identik, sehingga penggunaan metrik Mean Squared Error (MSE) dan Mean Absolute Error (MAE) berlaku secara universal dan sangat relevan untuk mengukur tingkat error pada model ini.
+Berikut adalah referensi akademik pendukung (SINTA 3, Terbitan 2022-2023) yang memvalidasi penggunaan metrik tersebut:
+1. Pratama, A., & Budiman, F. (2023).
+Prediksi Harga Rumah Menggunakan Algoritma Regresi Linier, Random Forest, Dan Gradient Boosting.
+JUTIF (Jurnal Teknik Informatika), 4(2).
+Indeks: Terakreditasi SINTA 3
+Tautan Jurnal: https://jutif.if.unsoed.ac.id/index.php/jurnal/article/view/715
+Justifikasi: Artikel SINTA 3 ini menggunakan algoritma Regresi Linier dan Gradient Boosting (sama dengan proyek ini) dan membuktikan bahwa metrik MSE dan MAE adalah metode paling akurat untuk mengukur keandalan prediksi regresi data tabular.
+
+2. Dharma, A. P., & Heryadi, Y. (2022).
+Prediksi Harga Rumah dengan Menggunakan Machine Learning.
+TEKNOSI (Jurnal Nasional Teknologi dan Sistem Informasi), 8(1), 1-8.
+Indeks: Terakreditasi SINTA 3
+Tautan Jurnal: https://teknosi.fti.unand.ac.id/index.php/teknosi/article/view/2513
+Justifikasi: Jurnal ini menjadi rujukan teori machine learning karena mendemonstrasikan bahwa performa model prediksi (baik itu rumah maupun data kontinu lainnya) wajib divalidasi melalui komparasi penurunan skor MAE.
+
+3. Saputra, dkk. (2022).
+Implementasi Algoritma Regresi Linear Berganda Untuk Prediksi Harga Rumah.
+Jurnal Media Informatika Budidarma, 6(3).
+Indeks: Terakreditasi SINTA 3
+Tautan Jurnal: https://ejurnal.stmik-budidarma.ac.id/index.php/mib/article/view/4214
+Justifikasi: Rujukan ini digunakan untuk menegaskan bahwa perbandingan algoritma memerlukan perhitungan matematis Mean Squared Error untuk melihat penalti pada rata-rata penyimpangan prediksinya.
